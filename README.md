@@ -15,4 +15,4 @@ cat /output/entry.txt
 
 ## Entry
 
-> The office coffee machine has two settings: brown water, and a meeting about why the coffee machine is broken.
+> The office printer never jams on a quiet Tuesday — only when something is due in five minutes, which makes it our most reliable deadline tracker.

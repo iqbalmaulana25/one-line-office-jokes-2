@@ -3,7 +3,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
-const line = "The office coffee machine has two settings: brown water, and a meeting about why the coffee machine is broken.";
+const line = "The office printer never jams on a quiet Tuesday — only when something is due in five minutes, which makes it our most reliable deadline tracker.";
 
 // Gate guard: single line of 1-199 characters (counted with the trailing newline).
 if (line.includes("\n") || line.trim().length === 0 || line.length + 1 > 199) {
